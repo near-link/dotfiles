@@ -1,3 +1,7 @@
+[General]
+ColorScheme=DarkMonochrome
+Name=Dark Monochrome
+
 [ColorEffects:Disabled]
 ChangeSelectionColor=
 Color=30,29,28
@@ -118,55 +122,9 @@ ForegroundNormal=212,210,207
 ForegroundPositive=144,144,144
 ForegroundVisited=181,181,181
 
-[General]
-ColorScheme=DarkMonochrome
-ColorSchemeHash=318898541a271af612b5ed5ec1c5661d725d0f16
-TerminalApplication=/usr/bin/ghostty --gtk-single-instance=true
-TerminalService=com.mitchellh.ghostty.desktop
-XftAntialias=true
-XftHintStyle=hintslight
-XftSubPixel=none
-fixed=JetBrains Mono,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-font=JetBrains Mono,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-menuFont=JetBrains Mono,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-smallestReadableFont=JetBrains Mono,8,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-toolBarFont=JetBrains Mono,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-
-[Icons]
-Theme=Papirus-Dark
-
-[KDE]
-LookAndFeelPackage=Catppuccin-Mocha-Blue
-ShowDeleteCommand=true
-contrast=7
-frameContrast=0.2
-widgetStyle=Breeze
-
-[KFileDialog Settings]
-Allow Expansion=false
-Automatically select filename extension=true
-Breadcrumb Navigation=false
-Decoration position=2
-Show Full Path=false
-Show Inline Previews=true
-Show Preview=false
-Show Speedbar=true
-Show hidden files=false
-Sort by=Name
-Sort directories first=true
-Sort hidden files last=false
-Sort reversed=false
-Speedbar Width=140
-View Style=Simple
-
-[PreviewSettings]
-EnableRemoteFolderThumbnail=false
-MaximumRemoteSize=0
-
 [WM]
 activeBackground=30,29,28
 activeBlend=212,210,207
-activeFont=JetBrains Mono,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 activeForeground=212,210,207
 inactiveBackground=24,23,22
 inactiveBlend=165,163,160
